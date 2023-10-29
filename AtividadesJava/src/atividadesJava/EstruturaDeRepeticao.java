@@ -42,6 +42,9 @@ public class EstruturaDeRepeticao {
 		*/
 		
 		
+		// No for se constrói na seguinte ordem ( Declara variável e inciar;Condição Lógica;Instrução/Ação caso a condição seja true )
+		
+		
 		
 		for(int i = 0; i<=10;i++) {
 			System.out.println(i);
