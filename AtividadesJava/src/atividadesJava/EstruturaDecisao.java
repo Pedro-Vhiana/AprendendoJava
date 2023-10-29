@@ -36,7 +36,7 @@ public class EstruturaDecisao {
 		    }
 		
 		
-		// switch quando for trabalhar com fluxos múltiplos e quiser escolhe-lôs a partir de um valor numérico ( obrigatoriamente um int )
+		// switch quando for trabalhar com fluxos múltiplos e quiser escolhe-lôs a partir de um valor numérico ( obrigatoriamente um int ).
 		
 		int andar = 3;
 		
