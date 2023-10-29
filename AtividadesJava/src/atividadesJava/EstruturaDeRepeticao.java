@@ -25,7 +25,7 @@ public class EstruturaDeRepeticao {
 		*/
 		
 		
-	/*	int x = 1;
+	/*	
 		int numero = 1;
 		int tabuada = 2;
 		int mult = numero * tabuada;
