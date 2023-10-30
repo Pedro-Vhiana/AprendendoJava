@@ -21,7 +21,7 @@ public class EstruturaDeRepeticao {
 		    	  System.out.println(numero+" x "+tabuada+" = "+mult);
 			    numero++;
 			    		
-		}    
+		}    ..
 		*/
 		
 		
